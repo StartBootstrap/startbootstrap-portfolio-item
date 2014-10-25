@@ -1,2 +1,2 @@
-startbootstrap-portfolio-item
-=============================
+Start Bootstrap - Portfolio Item
+=========
